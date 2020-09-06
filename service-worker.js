@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/twelvethWebAjHairFrontHeading/precache-manifest.ffa43e7cb4b4ed798698310e0fb4ca1d.js"
+  "/twelvethWebAjHairFrontHeading/precache-manifest.5fcaaaef86e0876143376aff87ea76b9.js"
 );
 
 self.addEventListener('message', (event) => {

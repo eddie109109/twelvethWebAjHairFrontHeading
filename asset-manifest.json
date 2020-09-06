@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/twelvethWebAjHairFrontHeading/static/css/main.47144c23.chunk.css",
-    "main.js": "/twelvethWebAjHairFrontHeading/static/js/main.421250f8.chunk.js",
-    "main.js.map": "/twelvethWebAjHairFrontHeading/static/js/main.421250f8.chunk.js.map",
+    "main.js": "/twelvethWebAjHairFrontHeading/static/js/main.3f0d948e.chunk.js",
+    "main.js.map": "/twelvethWebAjHairFrontHeading/static/js/main.3f0d948e.chunk.js.map",
     "runtime-main.js": "/twelvethWebAjHairFrontHeading/static/js/runtime-main.4e2bbddb.js",
     "runtime-main.js.map": "/twelvethWebAjHairFrontHeading/static/js/runtime-main.4e2bbddb.js.map",
     "static/js/2.c25da635.chunk.js": "/twelvethWebAjHairFrontHeading/static/js/2.c25da635.chunk.js",
     "static/js/2.c25da635.chunk.js.map": "/twelvethWebAjHairFrontHeading/static/js/2.c25da635.chunk.js.map",
     "index.html": "/twelvethWebAjHairFrontHeading/index.html",
-    "precache-manifest.ffa43e7cb4b4ed798698310e0fb4ca1d.js": "/twelvethWebAjHairFrontHeading/precache-manifest.ffa43e7cb4b4ed798698310e0fb4ca1d.js",
+    "precache-manifest.5fcaaaef86e0876143376aff87ea76b9.js": "/twelvethWebAjHairFrontHeading/precache-manifest.5fcaaaef86e0876143376aff87ea76b9.js",
     "service-worker.js": "/twelvethWebAjHairFrontHeading/service-worker.js",
     "static/css/main.47144c23.chunk.css.map": "/twelvethWebAjHairFrontHeading/static/css/main.47144c23.chunk.css.map",
     "static/js/2.c25da635.chunk.js.LICENSE.txt": "/twelvethWebAjHairFrontHeading/static/js/2.c25da635.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.4e2bbddb.js",
     "static/js/2.c25da635.chunk.js",
     "static/css/main.47144c23.chunk.css",
-    "static/js/main.421250f8.chunk.js"
+    "static/js/main.3f0d948e.chunk.js"
   ]
 }

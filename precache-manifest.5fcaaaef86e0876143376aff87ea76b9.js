@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "058e7bf1f5449edb8f9a87e0b8b1757e",
+    "revision": "7177cb8e8a861461548311a8abac9a49",
     "url": "/twelvethWebAjHairFrontHeading/index.html"
   },
   {
-    "revision": "774acafd3db57224496e",
+    "revision": "a5fda2018fccb86be829",
     "url": "/twelvethWebAjHairFrontHeading/static/css/main.47144c23.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/twelvethWebAjHairFrontHeading/static/js/2.c25da635.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "774acafd3db57224496e",
-    "url": "/twelvethWebAjHairFrontHeading/static/js/main.421250f8.chunk.js"
+    "revision": "a5fda2018fccb86be829",
+    "url": "/twelvethWebAjHairFrontHeading/static/js/main.3f0d948e.chunk.js"
   },
   {
     "revision": "783756fd3921cba56d93",
