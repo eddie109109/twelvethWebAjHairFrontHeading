@@ -1,0 +1,27 @@
+.navBar {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+}
+
+.navBar_stylists {
+  padding: 70px 10px 0 10px;
+  text-decoration: none;
+  color: white;
+}
+
+.navBar_ourWork {
+  /* position: relative; */
+  padding: 70px 10px 0 10px;
+  text-decoration: none;
+  color: white;
+}
+
+.navBar_aboutUs {
+  /* position: relative; */
+  padding: 70px 10px 0 10px;
+  text-decoration: none;
+  color: white;
+}
